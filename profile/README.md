@@ -1,7 +1,7 @@
 
-# FutureX Labs
+# Chakara Labs
 
-Welcome to the GitHub organization for FutureX Labs! 
+Welcome to the GitHub organization for Chakara  Labs! 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=0ECFF7&random=true&width=700&lines=Full-Stack+Developers+Building+the+Future.;AI+and+Machine+Learning+Solutions+for+Complex+Problems.;Crafting+Elegant+Web%2C+Desktop+%26+Mobile+Apps.;We+Engineer.+We+Innovate.+We+Push+Boundaries.;Open+Source+Enthusiasts.+Collaborative+Spirit.;Passionate+developers.+Innovative+solutions.)](https://git.io/typing-svg)
 
@@ -10,7 +10,7 @@ Welcome to the GitHub organization for FutureX Labs!
 
 <img align="right" alt="Programming..." width="500" src="https://futrxlabs.com/wp-content/uploads/sites/4/2020/03/image-banner-home5.png">
 
-FutureX Labs is a software company focused on developing innovative solutions using cutting-edge technologies such as web applications, desktop and mobile applications, as well as machine learning and artificial intelligence (AI). We specialize in building robust software products tailored to meet the needs of our clients and partners.
+Chakara Labs is a software company focused on developing innovative solutions using cutting-edge technologies such as web applications, desktop and mobile applications, as well as machine learning and artificial intelligence (AI). We specialize in building robust software products tailored to meet the needs of our clients and partners.
 
 ## Projects
 
@@ -47,5 +47,5 @@ We welcome contributions from the community! Whether it's bug fixes, feature enh
 If you have any questions, suggestions, or business inquiries, you can reach out to us via:
 
 - Email: info@futrxlabs.com
-- Website: [futrxlabs.com](https://futrxlabs.com/)
-- LinkedIn: [@futurexglobal](https://www.linkedin.com/company/futurexglobal/)
+- Website: [Chakaralabsai.com](https://Chakaralabsai.com/)
+- LinkedIn: [@ChakaraLabsglobal](https://www.linkedin.com/company/ChakaraLabsglobal/)
