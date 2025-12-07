@@ -4,42 +4,40 @@ Welcome to the official GitHub organization for Chakra Labs! We are a team of en
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=0ECFF7&random=true&width=700&lines=Translating+Complex+AI+into+Practical+Business+Solutions.;Building+with+Generative+AI%2C+LLMs%2C+and+IoT.;Empowering+Sri+Lankan+Industries+with+Intelligent+Tech.;From+Precision+Agriculture+to+Intelligent+Retail.;We+Build.+We+Innovate.+We+Empower.)](https://git.io/typing-svg)
 
-## About Us
+<br/>
 
-<img align="right" alt="Chakra Labs AI & Innovation" width="450" src="https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
+<p align="center">
+  <a href="https://chakralabsai.com/" target="_blank">
+    <img src="https://chakralabsai.com/assets/images/thumbnail.png" alt="Chakra Labs Website Preview" width="85%">
+  </a>
+</p>
+<h3 align="center">
+  <a href="https://chakralabsai.com/" target="_blank">Click to Visit Our Official Website: chakralabsai.com</a>
+</h3>
+
+---
+
+## About Us
 
 **Chakra Labs** is a startup specializing in AI-powered software development. Our mission is to bridge the gap between cutting-edge artificial intelligence and the real-world operational challenges faced by businesses in Sri Lanka and beyond. We focus on AI/ML-powered business automation, Generative AI & LLM-based applications, and custom IoT-integrated systems.
 
-We believe in empowering our local communities by making sophisticated technology accessible, practical, and impactful.
+**[Learn more about us on our About Us page](https://chakralabsai.com/about.html)**.
 
-## Our Core Focus & Expertise
+## Our Core AI Platforms
 
-Our development is centered around creating scalable, intelligent platforms that drive efficiency and growth:
+Our development is centered around creating scalable, intelligent platforms designed to solve critical business challenges.
 
--   **🤖 AI Communication & Agent Platforms:** Deploying specialized AI agents (Sales, Support) on platforms like WhatsApp to automate conversations and enhance customer engagement.
--   **🗣️ Real-Time Conversational AI:** Engineering next-generation, multilingual (Sinhala-ready) AI that interacts naturally through text, voice, and video.
--   **🛒 Intelligent Retail Management:** Building comprehensive systems that go beyond a simple POS, using AI to predict sales, manage inventory, and optimize operations.
--   **🌿 Agri-Tech & IoT Solutions:** Integrating IoT sensors and AI-powered image recognition for precision agriculture, including early disease detection and environmental monitoring.
+-   ### 🤖 AI Communication Platform
+    Automate your customer conversations on WhatsApp and social media. Our platform allows you to create and manage specialized AI agents for sales, support, and feedback, engaging customers 24/7.
+    **[Learn More ->](https://chakralabsai.com/platform1.html)**
 
-## Featured Projects & Case Studies
+-   ### 🗣️ Real-Time Conversational AI Platform
+    Deploy a next-generation, multilingual AI that interacts naturally through text, voice, and video in real-time. It's the ultimate tool for delivering unparalleled customer support and personalized user experiences.
+    **[Discover the Platform ->](https://chakralabsai.com/platform2.html)**
 
-Here are some examples of our work, demonstrating our capabilities across various domains.
-
-### [Intelligent Supermarket Management System](https://chakralabsai.com/industries/retail)
-
-An advanced POS system that revolutionizes supermarket operations. It centralizes inventory and billing while using machine learning to provide predictive sales analytics and strategic recommendations.
-
-### [Mobile Sales Force Automation App](https://chakralabsai.com/case-studies/suntech-holdings)
-
-A robust web and Android application built for companies with traveling sales agents. It provides real-time GPS tracking, instant sales reporting, and a complete management dashboard for strategic oversight.
-
-### [Greenhouse Analysis System](https://chakralabsai.com/industries/agriculture)
-
-An established IoT and AI solution for the agriculture sector. It uses computer vision to identify plant species and detect diseases early, combined with real-time monitoring of environmental conditions.
-
-### [Big Data & Recommendation Engine (Showcase)](https://chakralabsai.com/our-technology)
-
-A powerful backend system developed to analyze millions of data points, utilizing complex machine learning algorithms to generate highly personalized movie recommendations. This project showcases our expertise in big data processing and ML model deployment.
+-   ### 🏭 Industrial IoT (IIoT) Analysis System
+    Connect and analyze real-time data from industrial sensors and machinery. Our IIoT platform is designed for predictive maintenance, operational efficiency monitoring, and quality control in manufacturing and agriculture.
+    **[Explore IIoT Solutions ->](https://chakralabsai.com/platform3.html)**
 
 ## Our Technology Stack
 
@@ -56,10 +54,11 @@ Our team is proficient in a curated stack of modern, powerful technologies to bu
 
 We believe in the power of collaboration and open source. We welcome contributions from the community, whether it's bug fixes, feature enhancements, or new project ideas. Feel free to explore our public repositories.
 
-## Contact Us
+## Get in Touch
 
-Have a project in mind or want to learn more about how AI can transform your business? Let's talk.
+Ready to explore how AI can transform your business? We'd love to start a conversation.
 
 -   **🌐 Website:** [chakralabsai.com](https://chakralabsai.com/)
 -   **📧 Email:** [info@chakralabsai.com](mailto:info@chakralabsai.com)
--   **💼 LinkedIn:** [@ChakraLabs](https://www.linkedin.com/company/chakralabs/)  <!-- Please update this with your actual LinkedIn company page URL -->
+-   **💼 LinkedIn:** [@ChakraLabs](https://www.linkedin.com/company/chakralab)
+-   **📝 Contact Form:** **[Reach out to us directly on our Contact page](https://chakralabsai.com/contact.html)**
