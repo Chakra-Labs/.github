@@ -1,51 +1,65 @@
+# Chakra Labs (PVT) LTD
 
-# Chakara Labs
+Welcome to the official GitHub organization for Chakra Labs! We are a team of engineers and innovators dedicated to building the future of applied AI in Sri Lanka.
 
-Welcome to the GitHub organization for Chakara  Labs! 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=0ECFF7&random=true&width=700&lines=Full-Stack+Developers+Building+the+Future.;AI+and+Machine+Learning+Solutions+for+Complex+Problems.;Crafting+Elegant+Web%2C+Desktop+%26+Mobile+Apps.;We+Engineer.+We+Innovate.+We+Push+Boundaries.;Open+Source+Enthusiasts.+Collaborative+Spirit.;Passionate+developers.+Innovative+solutions.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=0ECFF7&random=true&width=700&lines=Translating+Complex+AI+into+Practical+Business+Solutions.;Building+with+Generative+AI%2C+LLMs%2C+and+IoT.;Empowering+Sri+Lankan+Industries+with+Intelligent+Tech.;From+Precision+Agriculture+to+Intelligent+Retail.;We+Build.+We+Innovate.+We+Empower.)](https://git.io/typing-svg)
 
 ## About Us
 
-<img align="right" alt="Programming..." width="500" src="https://futrxlabs.com/wp-content/uploads/sites/4/2020/03/image-banner-home5.png">
+<img align="right" alt="Chakra Labs AI & Innovation" width="450" src="https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
 
-Chakara Labs is a software company focused on developing innovative solutions using cutting-edge technologies such as web applications, desktop and mobile applications, as well as machine learning and artificial intelligence (AI). We specialize in building robust software products tailored to meet the needs of our clients and partners.
+**Chakra Labs** is a startup specializing in AI-powered software development. Our mission is to bridge the gap between cutting-edge artificial intelligence and the real-world operational challenges faced by businesses in Sri Lanka and beyond. We focus on AI/ML-powered business automation, Generative AI & LLM-based applications, and custom IoT-integrated systems.
 
-## Projects
+We believe in empowering our local communities by making sophisticated technology accessible, practical, and impactful.
 
-Here are some of our previous projects:
+## Our Core Focus & Expertise
 
-### [Movie Database Management System](https://futrxlabs.com/portfolio/mdb-management-system/)
-Utilizing machine learning algorithms, our system recommends personalized movie selections, complete with trailers, subtitles, and download links.
+Our development is centered around creating scalable, intelligent platforms that drive efficiency and growth:
 
-### [Point of Sales System](https://futrxlabs.com/portfolio/point-of-sales-system/)
-Our POS system streamlines supermarket management, offering comprehensive reports and predictive analytics for optimized sales and inventory management.
+-   **🤖 AI Communication & Agent Platforms:** Deploying specialized AI agents (Sales, Support) on platforms like WhatsApp to automate conversations and enhance customer engagement.
+-   **🗣️ Real-Time Conversational AI:** Engineering next-generation, multilingual (Sinhala-ready) AI that interacts naturally through text, voice, and video.
+-   **🛒 Intelligent Retail Management:** Building comprehensive systems that go beyond a simple POS, using AI to predict sales, manage inventory, and optimize operations.
+-   **🌿 Agri-Tech & IoT Solutions:** Integrating IoT sensors and AI-powered image recognition for precision agriculture, including early disease detection and environmental monitoring.
 
-### [Social Media App](https://futrxlabs.com/portfolio/social-media-app/)
-Join our movie-centric social media app to discover and discuss the best movies and TV series, complete with personalized recommendations and multimedia content.
+## Featured Projects & Case Studies
 
-### [Sales App](https://futrxlabs.com/portfolio/sales-app/)
-Empower your sales team with our web and Android app, facilitating sales submissions, location tracking, and comprehensive reporting for efficient management.
+Here are some examples of our work, demonstrating our capabilities across various domains.
 
-## Technologies
+### [Intelligent Supermarket Management System](https://chakralabsai.com/industries/retail)
 
-Our team is proficient in various technologies and frameworks, including:
+An advanced POS system that revolutionizes supermarket operations. It centralizes inventory and billing while using machine learning to provide predictive sales analytics and strategic recommendations.
 
-- Web Development: HTML/CSS, JavaScript, React, Angular, Node.js, Django, Flask, FastAPI etc.
-- Mobile Development: Flutter, React Native, etc.
-- Desktop Development: PyQt, Tkinter, etc.
-- Machine Learning & AI: TensorFlow, PyTorch, scikit-learn, OpenCV, etc.
-- Database: MySQL, MongoDB, Firebase, etc.
+### [Mobile Sales Force Automation App](https://chakralabsai.com/case-studies/suntech-holdings)
 
-## Contributing
+A robust web and Android application built for companies with traveling sales agents. It provides real-time GPS tracking, instant sales reporting, and a complete management dashboard for strategic oversight.
 
-We welcome contributions from the community! Whether it's bug fixes, feature enhancements, or new project ideas, feel free to contribute to our projects.
+### [Greenhouse Analysis System](https://chakralabsai.com/industries/agriculture)
+
+An established IoT and AI solution for the agriculture sector. It uses computer vision to identify plant species and detect diseases early, combined with real-time monitoring of environmental conditions.
+
+### [Big Data & Recommendation Engine (Showcase)](https://chakralabsai.com/our-technology)
+
+A powerful backend system developed to analyze millions of data points, utilizing complex machine learning algorithms to generate highly personalized movie recommendations. This project showcases our expertise in big data processing and ML model deployment.
+
+## Our Technology Stack
+
+Our team is proficient in a curated stack of modern, powerful technologies to build robust and scalable solutions.
+
+-   **AI & Machine Learning:** TensorFlow, PyTorch, Keras, Scikit-Learn, OpenCV, AWS Comprehend
+-   **Backend:** Python (Django, Flask, FastAPI), Node.js, PHP
+-   **Frontend:** JavaScript/TypeScript (React, Angular, Next.js)
+-   **Databases:** MySQL, MongoDB, SQLite, Firebase
+-   **IoT:** Arduino, Raspberry Pi, ESP32
+-   **Cloud & Deployment:** AWS, Azure, Firebase, Cloudinary, Docker
+
+## Let's Collaborate
+
+We believe in the power of collaboration and open source. We welcome contributions from the community, whether it's bug fixes, feature enhancements, or new project ideas. Feel free to explore our public repositories.
 
 ## Contact Us
 
-If you have any questions, suggestions, or business inquiries, you can reach out to us via:
+Have a project in mind or want to learn more about how AI can transform your business? Let's talk.
 
-- Email: info@futrxlabs.com
-- Website: [Chakaralabsai.com](https://Chakaralabsai.com/)
-- LinkedIn: [@ChakaraLabsglobal](https://www.linkedin.com/company/ChakaraLabsglobal/)
+-   **🌐 Website:** [chakralabsai.com](https://chakralabsai.com/)
+-   **📧 Email:** [info@chakralabsai.com](mailto:info@chakralabsai.com)
+-   **💼 LinkedIn:** [@ChakraLabs](https://www.linkedin.com/company/chakralabs/)  <!-- Please update this with your actual LinkedIn company page URL -->
