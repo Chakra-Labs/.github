@@ -12,7 +12,7 @@ Welcome to the official GitHub organization for Chakra Labs! We are a team of en
   </a>
 </p>
 <h3 align="center">
-  <a href="https://chakralabsai.com/" target="_blank">Click to Visit Our Official Website: chakralabsai.com</a>
+  <a href="https://chakralabsai.com/" target="_blank">Click to Visit Our Website: chakralabsai.com</a>
 </h3>
 
 ---
@@ -21,7 +21,7 @@ Welcome to the official GitHub organization for Chakra Labs! We are a team of en
 
 **Chakra Labs** is a startup specializing in AI-powered software development. Our mission is to bridge the gap between cutting-edge artificial intelligence and the real-world operational challenges faced by businesses in Sri Lanka and beyond. We focus on AI/ML-powered business automation, Generative AI & LLM-based applications, and custom IoT-integrated systems.
 
-**[Learn more about us on our About Us page](https://chakralabsai.com/about.html)**.
+**[Learn more about us](https://chakralabsai.com/about.html)**.
 
 ## Our Core AI Platforms
 
