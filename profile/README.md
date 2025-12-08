@@ -39,17 +39,6 @@ Our development is centered around creating scalable, intelligent platforms desi
     Connect and analyze real-time data from industrial sensors and machinery. Our IIoT platform is designed for predictive maintenance, operational efficiency monitoring, and quality control in manufacturing and agriculture.
     **[Explore IIoT Solutions ->](https://chakralabsai.com/platform3.html)**
 
-## Our Technology Stack
-
-Our team is proficient in a curated stack of modern, powerful technologies to build robust and scalable solutions.
-
--   **AI & Machine Learning:** TensorFlow, PyTorch, Keras, Scikit-Learn, OpenCV, AWS Comprehend
--   **Backend:** Python (Django, Flask, FastAPI), Node.js, PHP
--   **Frontend:** JavaScript/TypeScript (React, Angular, Next.js)
--   **Databases:** MySQL, MongoDB, SQLite, Firebase
--   **IoT:** Arduino, Raspberry Pi, ESP32
--   **Cloud & Deployment:** AWS, Azure, Firebase, Cloudinary, Docker
-
 ## Let's Collaborate
 
 We believe in the power of collaboration and open source. We welcome contributions from the community, whether it's bug fixes, feature enhancements, or new project ideas. Feel free to explore our public repositories.
